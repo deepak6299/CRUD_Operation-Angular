@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "ramu",
+      "lastName": "kumar",
+      "email": "dee@.com",
+      "phone": "7896541230"
+    },
+    {
+      "id": 3,
+      "firstName": "mohan",
+      "lastName": "kumar",
+      "email": "mohan@test.com",
+      "phone": "9876543218"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
